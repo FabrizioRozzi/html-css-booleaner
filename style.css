@@ -1,0 +1,24 @@
+.contenitore-top{
+  height: 170px;
+  width: auto;
+  background-color: #4EA0FF ;
+  background-image: url(img/pattern.png);
+}
+.logo{
+  width: auto;
+  height: min-content;
+  margin-left:300px;
+  margin-top: 100px;
+}
+
+main{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.piccolo{
+font-size: 10 ;
+}
+
+.small{
+  font-size: small;
+}
