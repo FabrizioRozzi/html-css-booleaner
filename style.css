@@ -1,19 +1,20 @@
 .contenitore-top{
   height: 170px;
-  width: auto;
+ 
   background-color: #4EA0FF ;
   background-image: url(img/pattern.png);
 }
 .logo{
   width: auto;
   height: min-content;
-  margin-left:300px;
+  margin-left:700px;
   margin-top: 100px;
 }
 
-main{
-  margin-left: 300px;
-  margin-right: 300px;
+body{
+  margin-left: 700px;
+  margin-right: 700px;
+  align-content: center;
 }
 .piccolo{
 font-size: 10 ;
@@ -21,4 +22,17 @@ font-size: 10 ;
 
 .small{
   font-size: small;
+}
+.giallo{
+  background-color:#FFFF00 ;
+}
+li{
+  font-weight: bold;
+}
+thead{
+  background-color:#20A9E5 ;
+  color: white;
+}
+.celeste{
+  background-color: #B1E5F2;
 }
